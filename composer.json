@@ -1,17 +1,21 @@
 {
-    "name": "Pikselin/silverstripe-admin-edit-link",
+    "name": "pikselin/silverstripe-admin-edit-link",
     "type": "silverstripe-vendormodule",
     "description": "Adds a link to the edit page in the CMS if you are logged in as administrator",
     "keywords": [
         "silverstripe",
         "admin"
     ],
+    "homepage" : "https://github.com/Pikselin/silverstripe-admin-edit-link",
+    "support" : {
+      "issues" : "https://github.com/Pikselin/silverstripe-admin-edit-link/issues"
+    },
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Ash Etchell",
-            "homepage": "https://github.com/ornatipinnis",
-            "role": "Developer"
+            "name": "Pikselin",
+            "email": "info@pikselin.com",
+            "homepage": "https://pikselin.com"
         }
     ],
     "require": {
