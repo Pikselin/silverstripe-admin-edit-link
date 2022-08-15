@@ -9,7 +9,7 @@ class PageEditLinkControllerExtension extends DataExtension
 {
     public function onAfterInit() 
     { 
-        Requirements::javascript('Pikselin/silverstripe-admin-edit-link:client/js/script.js', ['defer' => true]);
-        Requirements::css('Pikselin/silverstripe-admin-edit-link:client/css/EditLink.css');
+        Requirements::javascript('pikselin/silverstripe-admin-edit-link:client/js/script.js', ['defer' => true]);
+        Requirements::css('pikselin/silverstripe-admin-edit-link:client/css/EditLink.css');
     }
 }
