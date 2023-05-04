@@ -1,4 +1,7 @@
 # silverstripe-admin-edit-link
+
+## Use jonom/silverstripe-betternavigator and optionally jonom/silverstripe-environment-awareness for a more complete/user-friendly solution
+
 Adds a link to the CMS edit page if logged in user has appropriate permissions. This works by detecting the meta[name="x-cms-edit-link"] header tag.
 This tiny module has no dependancies other than Silverstripe 4.
 
